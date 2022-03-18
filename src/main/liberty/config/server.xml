@@ -16,7 +16,7 @@
     <applicationManager autoExpand="true"/>
 
     <!-- Configures the application on a specified context root -->
-    <webApplication contextRoot="/olpoc" location="olpoc.war" />
+    <webApplication contextRoot="/olpoc" location="olpoc-0.1.war" />
 
     <!-- Default SSL configuration enables trust for default certificates from the Java runtime -->
     <ssl id="defaultSSLConfig" trustDefaultCerts="true" />
