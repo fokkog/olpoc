@@ -1,3 +1,10 @@
+OpenLiberty POC
+
+This file was created while generating a starter project, subsequently renamed from README.txt to READMD.md and this header was added.
+No other changes.
+
+---
+
 After you generate a starter project, these instructions will help you with what to do next.
 
 The Open Liberty starter gives you a simple, quick way to get the necessary files to start building
