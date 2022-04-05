@@ -19,4 +19,13 @@
 
     <!-- Default SSL configuration enables trust for default certificates from the Java runtime -->
     <ssl id="defaultSSLConfig" trustDefaultCerts="true" />
+
+    <basicRegistry id="basic" realm="BasicRealm">
+        <user name="admin" password="adminpwd" />
+    </basicRegistry>
+
+    <administrator-role>
+        <user>admin</user>
+    </administrator-role>
+
 </server>
